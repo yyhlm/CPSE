@@ -2,10 +2,6 @@
 
 This repository contains the CPSE implementation, prompts, structural schema, and sanitized configurations for low-resource scientific-PDF extraction.
 
-## Release boundary
-
-This source release deliberately excludes PDFs, Gold annotations, the task-specific schema, cached model responses, run outputs, experimental results, credentials, private service URLs, and proxy settings. End-to-end reproduction therefore requires an independently authorized PDF--Gold dataset and compatible schema.
-
 ## Installation
 
 ```powershell
